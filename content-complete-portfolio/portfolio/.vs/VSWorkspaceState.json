@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\Controllers",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\app",
+    "\\frontend\\src\\app\\components",
+    "\\frontend\\src\\app\\components\\contact",
+    "\\frontend\\src\\assets"
+  ],
+  "SelectedNode": "\\frontend\\src\\app\\components\\contact\\contact.component.ts",
+  "PreviewInSolutionExplorer": false
+}
